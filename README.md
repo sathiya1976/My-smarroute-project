@@ -21,7 +21,7 @@ SmartRouteAI is an AI-powered solution designed to help shipping lines and freig
 
 ---
 
-## 🚨 Problem Statement
+## Problem Statement
 
 In today’s global logistics environment, customers often face multiple shipping options without clear insight into which route truly balances time, cost, and reliability. The decision-making process is often manual, inconsistent, and based on static schedules or partial data, resulting in inefficiencies and suboptimal service.
 
