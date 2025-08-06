@@ -6,7 +6,7 @@ SmartRouteAI is an AI-powered solution designed to help shipping lines and freig
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Problem Statement](#problem-statement)
 - [Solution Overview](#solution-overview)
@@ -27,7 +27,7 @@ In today’s global logistics environment, customers often face multiple shippin
 
 ---
 
-## ✅ Solution Overview
+## Solution Overview
 
 SmartRouteAI addresses this gap by offering:
 
@@ -38,9 +38,9 @@ SmartRouteAI addresses this gap by offering:
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
-### 🔢 Data Sources:
+### Data Sources:
 - Historical shipment data (routes, transit times, costs, exceptions)
 - Carrier schedules and reliability data
 - Port congestion and operational constraints
@@ -48,7 +48,7 @@ SmartRouteAI addresses this gap by offering:
 - Customer preferences and constraints
 - Emission and sustainability metrics
 
-### 🧠 AI Techniques:
+### AI Techniques:
 - Machine learning (predictive ETA, cost modeling)
 - Optimization algorithms (multi-criteria decision making)
 - Natural language processing (parsing customer instructions)
@@ -57,7 +57,7 @@ SmartRouteAI addresses this gap by offering:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Programming Language**: Python
 - **Libraries**:
@@ -71,7 +71,7 @@ SmartRouteAI addresses this gap by offering:
 
 ---
 
-## 🧪 Installation
+## Installation
 
 1. Clone the repository:
    ```bash
